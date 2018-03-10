@@ -16,6 +16,15 @@ allprojects {
     repositories {
         jcenter()
         google()
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+        maven { url "https://jitpack.io" }
+
+>>>>>>> chip-testing
+=======
+        maven { url "https://jitpack.io" }
+>>>>>>> e43ebc04659244494c243adc8e67b2d2ad77def9
     }
 }
 
